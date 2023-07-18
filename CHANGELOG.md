@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.3.0](https://github.com/akcorut/kGWASflow/compare/v1.2.3...v1.3.0) (2023-07-18)
+
+
+### Features
+
+* add user defined manhattan plot parameters ([b71f0fb](https://github.com/akcorut/kGWASflow/commit/b71f0fb54c08c9d4e0d48997e082f22389942687))
+
+
+### Bug Fixes
+
+* fixed qmplot link for the report ([0dec539](https://github.com/akcorut/kGWASflow/commit/0dec539c699719c52dc47211a336a7c82f44ae46))
+
 ## [1.2.3](https://github.com/akcorut/kGWASflow/compare/v1.2.2...v1.2.3) (2023-05-09)
 
 
