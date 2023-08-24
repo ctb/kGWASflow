@@ -106,7 +106,7 @@ To configure kGWASflow, you first need to initialize a new kGWASflow working dir
 conda activate kgwasflow
 
 # Initializing a new kgwasflow working dir
-kgwasflow init --working-dir path/to/your/work_dir 
+kgwasflow init --work-dir path/to/your/work_dir 
 ```
 
 or
